@@ -20,6 +20,10 @@ public class HelloController {
 //    @Inject
 //    AppConfiguration appConfiguration;
     
+    // TODO: Klasse auch z.B. für Datasets etc. Dataset sollte einfach verknüpfbar sein du Datasource, d.h.
+    // darf nich lange gehen.
+    
+    
     @Inject
     DataSourceConfiguration dataSourceConfiguration;
 
