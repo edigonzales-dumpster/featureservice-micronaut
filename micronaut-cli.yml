@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: ch.so.agi.featureservice
+---
+testFramework: junit
+sourceLanguage: java
